@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TopicEmpatDesignLyout</string>
+    <string name="textbtn1">Satu</string>
+    <string name="satu">satu</string>
+    <string name="dua">2</string>
+    <string name="tiga">3</string>
+    <string name="empat">4</string>
+    <string name="lima">5</string>
+    <string name="vaksin_booster">Vaksin Booster</string>
+</resources>
